@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gd0.svg">
+   sodipodi:docname="rc2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38458341"
-     inkscape:cx="-447.79589"
-     inkscape:cy="211.72437"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="477.10578"
+     inkscape:cy="112.5878"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,8 +35,8 @@
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
      inkscape:snap-center="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-width="681"
+     inkscape:window-height="766"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0">
@@ -105,7 +105,7 @@
          id="tspan3040"
          x="75"
          y="302.3609"
-         style="font-size:100px">0</tspan></text>
+         style="font-size:100px">8</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
@@ -118,14 +118,22 @@
          id="tspan3040-1"
          x="-505"
          y="-902.3609"
-         style="font-size:100px">0</tspan></text>
-    <rect
-       style="color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:26.69137594000000036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4047"
-       width="214.09331"
-       height="214.09331"
-       x="-172.80147"
-       y="527.43372"
-       transform="matrix(0.50991202,-0.86022656,0.50991202,0.86022656,0,0)" />
+         style="font-size:100px">8</tspan></text>
+    <g
+       id="layer1-4"
+       inkscape:label="Layer 1"
+       transform="matrix(1.0792873,0,0,1.0792873,4.2523435,-315.06922)">
+      <g
+         style="stroke:#000000;stroke-opacity:1"
+         transform="translate(164.75588,-127.27922)"
+         id="g5083">
+        <path
+           sodipodi:nodetypes="sccsccs"
+           inkscape:connector-curvature="0"
+           id="path4103"
+           d="m 99.999992,808.42461 c -52.337187,0 -94.7648602,41.6248 -94.7648602,67.82629 0,0.35415 0,202.1856 0,202.1856 0,26.139 42.4276732,67.7639 94.7648602,67.7639 52.337178,0 94.764868,-41.6249 94.764868,-67.7639 0,-0.3124 0,-202.1856 0,-202.1856 0,-26.20149 -42.42769,-67.82629 -94.764868,-67.82629 z"
+           style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:23.16343387;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
   </g>
 </svg>
